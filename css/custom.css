@@ -10,8 +10,8 @@ header.masthead {
 }
 section.cta {
   position: relative;
-  padding: 250px 0;
-  background-image: url("../img/bg.jpg");
+  padding: 500px 0;
+  background-image: url("../img/bg2.jpg");
   background-position: center;
   background-size: cover;
 }
